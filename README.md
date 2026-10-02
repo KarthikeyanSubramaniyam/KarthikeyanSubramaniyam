@@ -1,6 +1,6 @@
 # Karthikeyan Subramaniyam
 
-**Data Engineer | Data Quality & Enrichment**
+**Cybersecurity Architect | Engineer**
 
 I build dependable data workflows that turn fragmented business data into structured, usable datasets. My work focuses on ingestion, enrichment, validation, taxonomy design, and practical automation.
 
