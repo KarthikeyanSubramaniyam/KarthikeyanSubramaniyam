@@ -1,21 +1,21 @@
-# Karthikeyan Subramaniyam
+<h1 align="center">👋 Karthikeyan Subramaniyam</h1>
 
-**Cybersecurity Architect | Cloud Security Engineer | AI Security Engineer | Data Engineer | Principal Cryptographer**
+<p align="center"><strong>🛡️ Cybersecurity Architect · ☁️ Cloud Security Engineer · 🤖 AI Security Engineer · 🧱 Data Engineer · 🔐 Principal Cryptographer</strong></p>
 
 I design secure, observable, and reliable data and software systems. My work combines cybersecurity architecture, cloud governance, data engineering, applied AI security, cryptographic lifecycle management, and practical automation.
 
-## What I build
+## 🚀 What I build
 
-- Security assessment tools that turn evidence into actionable findings
-- Cloud IAM and configuration governance workflows
-- Data ingestion, enrichment, validation, and quality pipelines
-- AI model risk and prompt-injection evaluation controls
-- Cryptographic agility and key-lifecycle governance programs
-- Defensive automation for repeatable engineering operations
+- 🧪 Security assessment tools that turn evidence into actionable findings
+- ☁️ Cloud IAM and configuration governance workflows
+- 🔄 Data ingestion, enrichment, validation, and quality pipelines
+- 🤖 AI model risk and prompt-injection evaluation controls
+- 🔐 Cryptographic agility and key-lifecycle governance programs
+- ⚙️ Defensive automation for repeatable engineering operations
 
-## Core capabilities
+## 🧭 Core capabilities
 
-### Cybersecurity and architecture
+### 🛡️ Cybersecurity and architecture
 
 - Zero Trust architecture and threat modeling
 - Identity, access management, least privilege, and MFA
@@ -25,7 +25,7 @@ I design secure, observable, and reliable data and software systems. My work com
 - Incident readiness, audit evidence, and risk reporting
 - Secure-by-design development and defensive automation
 
-### Cloud and platform security
+### ☁️ Cloud and platform security
 
 - Cloud IAM analysis and privilege review
 - Configuration drift detection and baseline enforcement
@@ -35,7 +35,7 @@ I design secure, observable, and reliable data and software systems. My work com
 - CI/CD security gates and policy-as-code workflows
 - Container, endpoint, and workload security fundamentals
 
-### Data engineering
+### 🧱 Data engineering
 
 - Python data pipelines and batch processing
 - Data ingestion, normalization, validation, and deduplication
@@ -45,7 +45,7 @@ I design secure, observable, and reliable data and software systems. My work com
 - Reproducible transformations and operational documentation
 - Data contracts, lineage, observability, and reliability practices
 
-### AI and applied security
+### 🤖 AI and applied security
 
 - AI model release-readiness reviews
 - Model cards, evaluation evidence, and data lineage
@@ -53,7 +53,7 @@ I design secure, observable, and reliable data and software systems. My work com
 - AI governance, ownership, rollback, and risk controls
 - Secure automation around model-assisted workflows
 
-### Cryptography and IT
+### 🔐 Cryptography and IT
 
 - Cryptographic inventory and algorithm migration planning
 - Key ownership, rotation, recovery, and lifecycle controls
@@ -62,7 +62,7 @@ I design secure, observable, and reliable data and software systems. My work com
 - Git, GitHub, REST APIs, scripting, and workflow automation
 - Security documentation designed for engineering and audit teams
 
-## Featured security programs
+## ⭐ Featured security programs
 
 | Area | Project | Purpose |
 |---|---|---|
@@ -78,7 +78,7 @@ I design secure, observable, and reliable data and software systems. My work com
 | Cryptography | [Cryptographic Agility Planner](https://github.com/KarthikeyanSubramaniyam/cryptographic-agility-planner) | Prioritizes migration away from weak algorithms |
 | Cryptography | [Key Lifecycle Auditor](https://github.com/KarthikeyanSubramaniyam/key-lifecycle-auditor) | Reviews key ownership, rotation, and recovery evidence |
 
-## Data engineering work
+## 📊 Data engineering work
 
 - [B2B Data Pipeline](https://github.com/KarthikeyanSubramaniyam/b2b-data-pipeline)
 - [Company Enrichment API](https://github.com/KarthikeyanSubramaniyam/company-enrichment-api)
@@ -87,7 +87,7 @@ I design secure, observable, and reliable data and software systems. My work com
 - [Taxonomy](https://github.com/KarthikeyanSubramaniyam/Taxonomy)
 - [DataHub](https://github.com/KarthikeyanSubramaniyam/DataHub)
 
-## Engineering principles
+## 🧠 Engineering principles
 
 - Make security controls explicit, testable, and reviewable.
 - Prefer least privilege, strong identity, and complete audit trails.
@@ -96,10 +96,10 @@ I design secure, observable, and reliable data and software systems. My work com
 - Document assumptions, risks, ownership, and rollback paths.
 - Build small tools that can become reliable engineering workflows.
 
-## Technology focus
+## 🧰 Technology focus
 
 Python, SQL, Git, GitHub Actions, REST APIs, Linux, Windows, Cloud IAM, Zero Trust, Data Quality, ETL/ELT, AI Governance, Threat Modeling, Cryptography, Security Automation
 
-## Contact and collaboration
+## 🤝 Contact and collaboration
 
 Open to collaboration on cybersecurity architecture, cloud security, data engineering, AI security, cryptographic governance, and reliable automation.
