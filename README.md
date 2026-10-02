@@ -103,3 +103,30 @@ Python, SQL, Git, GitHub Actions, REST APIs, Linux, Windows, Cloud IAM, Zero Tru
 ## 🤝 Contact and collaboration
 
 Open to collaboration on cybersecurity architecture, cloud security, data engineering, AI security, cryptographic governance, and reliable automation.
+## 🎓 Certifications and learning
+
+The following items are listed on my public LinkedIn profile:
+
+- 🐍 Data Science with Python — EDUCBA
+- 🐍 Python 3.5 Training — EDUCBA
+- 🗃️ SQL Workshop — Skillslash Academy
+- 🤖 Digital Skills: Artificial Intelligence — Accenture
+- 📈 Digital Skills: Web Analytics — Accenture
+- 🎨 Digital Skills: User Experience — Accenture
+- 📣 The Fundamentals of Digital Marketing — Google Cloud Community India
+- 📊 Google Analytics for Beginners — Google Analytics for Business
+- 📊 Advanced Google Analytics — Google
+- 🧾 Accounting Training — EDUCBA
+- 🖼️ Adobe Photoshop Lightroom 2 — Udemy
+- 🧪 Data Science learning through Naan Mudhalvan
+
+### Security and IT learning focus
+
+- 🔐 Network protocol and ethical hacking fundamentals
+- 🌐 Web enumeration and application security concepts
+- 🧩 Command injection and file inclusion awareness
+- 🐧 Linux system administration and Bash scripting
+- 🛡️ Cybersecurity research and defensive security tooling
+- ⚙️ Automation, data analytics, and AI productivity tools
+
+These credentials and learning activities complement my practical GitHub work in cybersecurity architecture, cloud governance, AI security, cryptography, and data engineering. Credential details should be verified from the original LinkedIn entries or issuing organizations.
