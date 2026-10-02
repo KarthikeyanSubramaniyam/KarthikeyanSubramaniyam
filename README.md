@@ -1,6 +1,6 @@
 # Karthikeyan Subramaniyam
 
-**Cybersecurity Architect | Engineer**
+**Cybersecurity Architect | Cloud Security Engineer | AI | Principal Cryptographer**
 
 I build dependable data workflows that turn fragmented business data into structured, usable datasets. My work focuses on ingestion, enrichment, validation, taxonomy design, and practical automation.
 
