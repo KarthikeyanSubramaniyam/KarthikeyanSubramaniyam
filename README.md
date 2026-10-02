@@ -24,6 +24,11 @@
 
 **Tools and systems:** Git · GitHub Actions · Linux · Windows · Docker fundamentals · Automation · Technical documentation
 
+
+## Skills demonstrated in public projects
+
+Python automation and JSON analysis; AWS IAM policy review and escalation candidates; CloudTrail threat detection and incident timelines; network exposure, encryption and configuration drift checks; Terraform plan auditing; desktop hardening, firewall and HTTP security reviews; identity threat modeling and Zero Trust; AI model risk, prompt-injection evaluation and cryptographic key lifecycle reviews. My public HTML portfolio also demonstrates web presentation and technical documentation.
+
 ## ⭐ Featured security work
 
 - [Website Security Auditor](https://github.com/KarthikeyanSubramaniyam/website-security-auditor) — HTTP header and server-disclosure review
