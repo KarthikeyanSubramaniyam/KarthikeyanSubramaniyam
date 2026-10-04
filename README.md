@@ -1,4 +1,4 @@
-<h1 align="center">👋 Karthikeyan Subramaniyam</h1>
+<h1 align="center">👋 Karthikeyan Subramaniam</h1>
 
 <p align="center"><strong>🛡️ Cybersecurity Architect · ☁️ Cloud Security Engineer · 🤖 AI Security Engineer · 🧱 Data Engineer · 🔐 Principal Cryptographer</strong></p>
 
