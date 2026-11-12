@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karthikeyansubramaniam04/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://karthikeyansubramaniyam.github.io"><img src="https://img.shields.io/badge/Portfolio-Live_Site-blue?style=flat&logo=googlechrome" alt="Portfolio"></a>
+  <a href="https://karthikeyan-subramaniam.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-blue?style=flat&logo=googlechrome" alt="Portfolio"></a>
   <img src="https://img.shields.io/badge/Status-Open_to_Collaborations-success?style=flat" alt="Status">
 </p>
 
