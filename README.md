@@ -49,8 +49,11 @@ Scalable batch/streaming pipelines, medallion lakehouse designs, CDC ingestion e
 
 ## 🤖 2. Artificial Intelligence & Machine Learning Systems
 
-Developing machine learning algorithms from mathematical first principles, transformer architectures, and NLP pipelines without external API dependencies.
+Developing autonomous agentic workflows, hybrid graph retrieval, zero-trust MCP gateways, and transformer architectures from mathematical first principles.
 
+* **[Agentic Deep Research & Synthesis Engine](https://github.com/KarthikeyanSubramaniyam/agentic-deep-research-public)** — Autonomous multi-agent deep research engine featuring recursive question decomposition, cross-source fact verification, citation credibility scoring, and executive dossier synthesis.
+* **[Enterprise Hybrid GraphRAG Engine](https://github.com/KarthikeyanSubramaniyam/graph-rag-engine-public)** — Next-generation hybrid retrieval engine combining multi-hop Knowledge Graph traversal (entity-relation-entity networks) with dense vector embeddings and Reciprocal Rank Fusion (RRF) to eliminate multi-hop hallucinations.
+* **[MCP Security & Tool Gateway for AI Agents](https://github.com/KarthikeyanSubramaniyam/mcp-agent-gateway-public)** — Zero-Trust Model Context Protocol (MCP) gateway featuring Role-Based Tool Access Control (RBAC), parameter boundary verification, sliding-window rate limiting, and SHA-256 cryptographic audit logs for autonomous AI agents.
 * **[scratchformer](https://github.com/KarthikeyanSubramaniyam/scratchformer-public)** — Complete modern Large Language Model architecture engineered purely from mathematical foundations: Rotary Position Embeddings (RoPE), Grouped-Query Attention (GQA), KV-caching, LoRA parameter-efficient fine-tuning, and speculative decoding.
 * **[AI Daily Task Copilot](https://github.com/KarthikeyanSubramaniyam/ai-daily-task-copilot-public)** — Intelligent offline task management copilot featuring NLP action decomposition, priority matrix scoring, duplicate detection, and automated scheduling heuristics.
 * **[NumPy Neural Net](https://github.com/KarthikeyanSubramaniyam/numpy-neural-net-public)** — Deep neural network built from absolute scratch in pure NumPy (hand-coded forward pass, backpropagation, and mini-batch gradient descent achieving ~97% accuracy on MNIST).
